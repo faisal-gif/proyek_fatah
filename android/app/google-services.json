@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "412061864581",
+    "project_id": "projekpatah",
+    "storage_bucket": "projekpatah.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:412061864581:android:c402c8e45f0fe51fa50fec",
+        "android_client_info": {
+          "package_name": "com.example.projek_akhir_patah"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "412061864581-m9jnv6ie4one06qjdp0qg4d246ramfsa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.projek_akhir_patah",
+            "certificate_hash": "c784f6dd46dd3cc85b5539c89f3dcd96f0309611"
+          }
+        },
+        {
+          "client_id": "412061864581-fif4mlv0cafte9847n6hvpl16jl5qdj2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9IZ0U6MIx4UqpeTcEr050Jqi05L8Yw7I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "412061864581-fif4mlv0cafte9847n6hvpl16jl5qdj2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
